@@ -1,2 +1,2 @@
 # DevopsGitAssignment
-commit - 5 from main
+commit - 6 from main
